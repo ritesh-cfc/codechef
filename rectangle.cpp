@@ -1,3 +1,6 @@
+//january long challenge
+//question 1
+
 #include<bits/stdc++.h>
 #define lli long long int 
 using namespace std;
